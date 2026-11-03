@@ -72,17 +72,14 @@ Facility Management · Maintenance Tracking · Workflow Automation · Cloud Comp
 - **Publication issue:** IJSDR, Volume 10, Issue 11, November 2025
 - **Publication date:** 14 November 2025
 
-Add the final published PDF to this repository as research-paper.pdf so readers can access the paper directly from the Files section.
+The complete published paper is available here: [Read the research paper (PDF)](Paper.pdf).
 
 ## Publication certificate
 
-The publication certificate was not present in the files available for this update. It has therefore not been represented as an attached or downloadable certificate.
+The repository includes the official publication certificate and publication confirmation letter:
 
-Once the official certificate is added, place it in this repository at:
-
-certificates/publication-certificate.pdf
-
-Then add a direct link to that file here. Do not use a recreated or unofficial certificate.
+- [IJSDR publication certificate (PDF)](CERTIFICATES/IJSDR%20305826_Certificate.pdf)
+- [IJSDR publication confirmation letter (PDF)](CERTIFICATES/IJSDR%20305826_ConfirmationLetter%20(1).pdf)
 
 ## Citation
 
@@ -95,9 +92,10 @@ Pratik Raj, Sumit Arun Hirve, Smith Deshmukh, Ayush Dongare, and Yash Mate, “E
 ```text
 .
 ├── README.md
-├── research-paper.pdf
-└── certificates/
-    └── publication-certificate.pdf
+├── Paper.pdf
+└── CERTIFICATES/
+    ├── IJSDR 305826_Certificate.pdf
+    └── IJSDR 305826_ConfirmationLetter (1).pdf
 ```
 
 The PDF and certificate should be the original publication documents.
